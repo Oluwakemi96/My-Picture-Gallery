@@ -1,0 +1,38 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+.container{
+  display: flex;
+  gap: 20px;
+  margin-top: 40px;
+  margin-left: 250px;
+}
+
+
+.current-image{
+  background-color: black;
+  width: 700px;
+  height: 400px;
+  margin: 0 auto;
+  margin-top: 5px;
+  
+}
+.previous{
+  width: 100px;
+  height: 100px;
+}
+
+.previous img{
+  width: 100%;
+  height:100%
+}
+
+
+div.current-image img{
+  width: 100%;
+  height: 100%;
+}
